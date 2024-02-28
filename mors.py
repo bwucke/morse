@@ -1,3 +1,7 @@
+# 80% of credit goes to Phind, the AI assistant,
+# therefore License = Public Domain.
+# Produces an ascii->morse code table in C syntax.
+
 MORSE_CODE_DICT = { 'A':'.-', 'B':'-...',
                     'C':'-.-.', 'D':'-..', 'E':'.',
                     'F':'..-.', 'G':'--.', 'H':'....',
